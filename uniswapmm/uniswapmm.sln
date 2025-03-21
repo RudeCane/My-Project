@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35828.75 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "uniswapmm", "uniswapmm\uniswapmm.csproj", "{AB56A92C-776F-44AE-9E42-0FAF519F8933}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB56A92C-776F-44AE-9E42-0FAF519F8933}.Debug|Default.ActiveCfg = Debug|x64
+		{AB56A92C-776F-44AE-9E42-0FAF519F8933}.Debug|Default.Build.0 = Debug|x64
+		{AB56A92C-776F-44AE-9E42-0FAF519F8933}.Debug|Default.Deploy.0 = Debug|x64
+		{AB56A92C-776F-44AE-9E42-0FAF519F8933}.Release|Default.ActiveCfg = Release|x64
+		{AB56A92C-776F-44AE-9E42-0FAF519F8933}.Release|Default.Build.0 = Release|x64
+		{AB56A92C-776F-44AE-9E42-0FAF519F8933}.Release|Default.Deploy.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEB30AC7-B42A-4539-AE4D-41AD8683D887}
+	EndGlobalSection
+EndGlobal

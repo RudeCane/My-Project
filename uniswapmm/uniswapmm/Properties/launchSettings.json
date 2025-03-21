@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "uniswapmm (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "uniswapmm (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
